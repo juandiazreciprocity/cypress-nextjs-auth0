@@ -36,10 +36,10 @@
     "jose": "^2.0.5"
   },
   "devDependencies": {
-    "@auth0/nextjs-auth0": "^1.7.0",
-    "@testing-library/cypress": "^8.0.2",
+    "@auth0/nextjs-auth0": "^2.2.0",
+    "@testing-library/cypress": "^9.0.0",
     "all-contributors-cli": "^6.20.0",
-    "cypress": "^9.4.1",
+    "cypress": "^12.3.0",
     "dotenv": "^16.0.0",
     "husky": "^7.0.4",
     "is-ci": "^3.0.1",

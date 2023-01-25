@@ -5,5 +5,3 @@ import './commands/login';
 import './commands/logout';
 import './commands/preserve-auth0-cookies-once';
 import './commands/set-auth0-cookie';
-
-import './utils/whitelist-cookies';
